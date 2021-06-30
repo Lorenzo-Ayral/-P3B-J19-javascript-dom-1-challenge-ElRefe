@@ -1,1 +1,0 @@
-# -P3B-J19-javascript-dom-1-challenge-ElRefe

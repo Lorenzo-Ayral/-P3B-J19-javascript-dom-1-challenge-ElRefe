@@ -1,1 +1,0 @@
-console.log('Vous pouvez commencer votre exercice 2 :).');
